@@ -49,7 +49,7 @@ let oskar = Engineer {
     focus:     ["AI Tooling", "Systems Design",
                 "DX", "Real-time Apps"],
     editor:    "Neovim (btw)",
-    os:        "macOS + Arch (btw)",
+    os:        "macOS + Arch (btw) → deploying everywhere",
     philosophy: "Ship fast. Test first. Think in systems.",
 };
 ```
