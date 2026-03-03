@@ -96,8 +96,8 @@ let oskar = Engineer {
   <img src="https://img.shields.io/badge/blitzkeys-Realtime%20typing%20competition-58a6ff?style=for-the-badge&logo=elixir&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/execute008/basic_calc_tools">
-  <img src="https://img.shields.io/badge/basic__calc__tools-CLI%20calculator%20tools-58a6ff?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" />
+<a href="https://github.com/execute008/goelectrodb">
+  <img src="https://img.shields.io/badge/goelectrodb-DynamoDB%20single--table%20design%20in%20Go-58a6ff?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" />
 </a>
 
 </div>
