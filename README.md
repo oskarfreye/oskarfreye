@@ -29,9 +29,9 @@
 
 **[@draht-dev](https://github.com/draht-dev)** — AI coding agent with TDD-first, DDD-native workflows. Multi-model routing, automatic fallback. Built for freelancers who ship.
 
-**[@fr3n-tech](https://github.com/fr3n-tech)** — Next-gen tech at [fr3n.tech](https://fr3n.tech). Building the future, one commit at a time.
+**[@fr3n-tech](https://github.com/fr3n-tech)** — Next-gen tech at [fr3n.fan](https://fr3n.fan). Building the future, one commit at a time.
 
-**[brain.nvim](https://github.com/execute008/brain.nvim)** — My Neovim brain. Because the editor *is* the IDE.
+**[brain.nvim](https://github.com/execute008/brain.nvim)** — Daily code challenges in Neovim to beat AI brain atrophy. Stay sharp. Stay human.
 
 **[ocgw](https://github.com/execute008/ocgw)** — Lightweight gateway for managing concurrent AI coding agent sessions. Go-powered.
 
@@ -49,7 +49,7 @@ let oskar = Engineer {
     focus:     ["AI Tooling", "Systems Design",
                 "DX", "Real-time Apps"],
     editor:    "Neovim (btw)",
-    os:        "macOS → deploying everywhere",
+    os:        "macOS + Arch (btw)",
     philosophy: "Ship fast. Test first. Think in systems.",
 };
 ```
@@ -60,30 +60,46 @@ let oskar = Engineer {
 
 <br/>
 
-<div align="center">
-
-### 🔥 Featured Work
-
-</div>
+---
 
 <br/>
 
 <div align="center">
-<a href="https://github.com/draht-dev/draht">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=draht-dev&repo=draht&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
-</a>
-<a href="https://github.com/execute008/brain.nvim">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=execute008&repo=brain.nvim&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
-</a>
-</div>
 
-<div align="center">
+### 🔥 Featured Work
+
+<br/>
+
+<a href="https://github.com/draht-dev/draht">
+  <img src="https://img.shields.io/badge/draht--dev%2Fdraht-AI%20coding%20agent%20%E2%80%94%20TDD--first%2C%20DDD--native-58a6ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/fr3n-tech/openauth">
+  <img src="https://img.shields.io/badge/fr3n--tech%2Fopenauth-Universal%20standards--based%20auth%20provider-58a6ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/execute008/brain.nvim">
+  <img src="https://img.shields.io/badge/brain.nvim-Daily%20code%20challenges%20in%20Neovim-58a6ff?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117" />
+</a>
+&nbsp;
 <a href="https://github.com/execute008/ocgw">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=execute008&repo=ocgw&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
+  <img src="https://img.shields.io/badge/ocgw-Concurrent%20AI%20agent%20session%20gateway-58a6ff?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" />
 </a>
+
+<br/><br/>
+
 <a href="https://github.com/execute008/blitzkeys">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=execute008&repo=blitzkeys&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=8b949e&text_color=e6edf3" />
+  <img src="https://img.shields.io/badge/blitzkeys-Realtime%20typing%20competition-58a6ff?style=for-the-badge&logo=elixir&logoColor=white&labelColor=0d1117" />
 </a>
+&nbsp;
+<a href="https://github.com/execute008/basic_calc_tools">
+  <img src="https://img.shields.io/badge/basic__calc__tools-CLI%20calculator%20tools-58a6ff?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" />
+</a>
+
 </div>
 
 <br/>
@@ -98,12 +114,19 @@ let oskar = Engineer {
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=execute008&show_icons=true&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3&ring_color=58a6ff&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=execute008&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e" />
+<a href="https://git.io/streak-stats">
+  <img width="60%" src="https://streak-stats.demolab.com/?user=execute008&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e" />
+</a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=execute008&layout=compact&theme=github_dark&border_color=30363d&bg_color=0d1117&title_color=58a6ff&text_color=e6edf3&langs_count=10&hide=html,css,scss" />
+![execute008's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=execute008&theme=github_dark)
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=execute008&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=execute008&theme=github_dark" />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=execute008&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=execute008&theme=github_dark&utcOffset=1" />
 
 </div>
 
@@ -130,10 +153,6 @@ let oskar = Engineer {
 <br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=execute008&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area_color=161b22&area=true&hide_border=true" width="95%"/>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=execute008&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" />
 
