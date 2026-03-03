@@ -11,6 +11,9 @@
 <!-- BADGES -->
 [![Website](https://img.shields.io/badge/freye.tech-0d1117?style=for-the-badge&logo=safari&logoColor=58a6ff)](https://freye.tech)
 [![Twitter](https://img.shields.io/badge/@freyedev-0d1117?style=for-the-badge&logo=x&logoColor=e6edf3)](https://twitter.com/freyedev)
+[![Instagram](https://img.shields.io/badge/@freyedev-0d1117?style=for-the-badge&logo=instagram&logoColor=e6edf3)](https://instagram.com/freyedev)
+[![YouTube](https://img.shields.io/badge/@build__fr3n__fan-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@build_fr3n_fan)
+[![TikTok](https://img.shields.io/badge/@freyedev-0d1117?style=for-the-badge&logo=tiktok&logoColor=e6edf3)](https://tiktok.com/@freyedev)
 [![GitHub](https://img.shields.io/badge/execute008-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/execute008)
 
 </div>
