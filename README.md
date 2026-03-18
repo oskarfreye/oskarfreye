@@ -48,9 +48,9 @@
 ```rust
 let oskar = Engineer {
     code:      ["TypeScript", "Go", "Elixir",
-                "Rust", "Lua", "Python", "Odin"],
+                "Rust", "Lua", "Python", "Dart"],
     focus:     ["AI Tooling", "Systems Design",
-                "DX", "Real-time Apps"],
+                "DX", "Real-time Apps", "Games"],
     editor:    "Neovim (btw)",
     os:        "macOS + Arch (btw) → deploying everywhere",
     philosophy: "Ship fast. Test first. Think in systems.",
