@@ -20,10 +20,6 @@
 
 ---
 
-![GitCity](https://gitcity.natrajx.in/api/svg?u=execute008)
-
----
-
 <br/>
 
 <table>
@@ -120,6 +116,11 @@ let oskar = Engineer {
 ### 📊 Stats
 
 <br/>
+
+<a href="https://gitcity.natrajx.in/YOUR_USERNAME">
+  <img src="https://gitcity.natrajx.in/api/svg?u=YOUR_USERNAME&theme=aurora"
+       alt="My GitHub Skyline" width="100%" />
+</a>
 
 <a href="https://git.io/streak-stats">
   <img width="60%" src="https://streak-stats.demolab.com/?user=execute008&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e" />
