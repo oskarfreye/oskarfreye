@@ -119,7 +119,7 @@ let oskar = Engineer {
 
 <a href="https://gitcity.natrajx.in/execute008">
   <img src="https://gitcity.natrajx.in/api/svg?u=execute008&theme=noir"
-       alt="My GitHub Skyline" width="100%" height="200px" />
+       alt="My GitHub Skyline" width="100%" height="333px" />
 </a>
 
 <br/><br/>
