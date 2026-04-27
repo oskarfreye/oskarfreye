@@ -22,13 +22,7 @@
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🏗️ What I'm Building
-
-<br/>
 
 **[@draht-dev](https://github.com/draht-dev)** — AI coding agent with TDD-first, DDD-native workflows. Multi-model routing, automatic fallback. Built for freelancers who ship.
 
@@ -38,12 +32,9 @@
 
 **[ocgw](https://github.com/execute008/ocgw)** — Lightweight gateway for managing concurrent AI coding agent sessions. Go-powered.
 
-</td>
-<td width="50%" valign="top">
+<br/>
 
 ### ⚡ Tech DNA
-
-<br/>
 
 ```rust
 let oskar = Engineer {
@@ -56,10 +47,6 @@ let oskar = Engineer {
     philosophy: "Ship fast. Test first. Think in systems.",
 };
 ```
-
-</td>
-</tr>
-</table>
 
 <br/>
 
