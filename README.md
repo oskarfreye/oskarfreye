@@ -118,7 +118,7 @@ let oskar = Engineer {
 <br/>
 
 <a href="https://gitcity.draht.dev/execute008">
-  <img src="https://gitcity.draht.dev/api/svg?u=execute008&theme=noir"
+  <img src="https://gitcity.draht.dev/api/svg?theme=noir&u=execute008"
        alt="My GitHub Skyline" width="100%" height="333px" />
 </a>
 
