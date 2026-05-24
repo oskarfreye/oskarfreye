@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=execute008&fontSize=80&fontColor=e6edf3&fontAlignY=35&desc=Oskar%20Freye%20%E2%80%A2%20Building%20from%20Space%20%F0%9F%9A%80&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=230&section=header&text=Oskar%20Freye&fontSize=80&fontColor=e6edf3&fontAlignY=35&desc=Building%20from%20Space%20%F0%9F%9A%80&descSize=18&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Founder+%40fr3n-tech+%E2%80%A2+Building+%40draht-dev;Full-stack+architect+%E2%80%A2+AI+tooling+%E2%80%A2+Systems+thinker" alt="Typing SVG" /></a>
@@ -28,9 +28,9 @@
 
 **[@fr3n-tech](https://github.com/fr3n-tech)** — Next-gen tech at [fr3n.fan](https://fr3n.fan). Building the future, one commit at a time.
 
-**[brain.nvim](https://github.com/execute008/brain.nvim)** — Daily code challenges in Neovim to beat AI brain atrophy. Stay sharp. Stay human.
+**[brain.nvim](https://github.com/oskarfreye/brain.nvim)** — Daily code challenges in Neovim to beat AI brain atrophy. Stay sharp. Stay human.
 
-**[ocgw](https://github.com/execute008/ocgw)** — Lightweight gateway for managing concurrent AI coding agent sessions. Go-powered.
+**[ocgw](https://github.com/oskarfreye/ocgw)** — Lightweight gateway for managing concurrent AI coding agent sessions. Go-powered.
 
 <br/>
 
