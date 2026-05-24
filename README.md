@@ -72,21 +72,21 @@ let oskar = Engineer {
 
 <br/><br/>
 
-<a href="https://github.com/execute008/brain.nvim">
+<a href="https://github.com/oskarfreye/brain.nvim">
   <img src="https://img.shields.io/badge/brain.nvim-Daily%20code%20challenges%20in%20Neovim-58a6ff?style=for-the-badge&logo=neovim&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/execute008/ocgw">
+<a href="https://github.com/oskarfreye/ocgw">
   <img src="https://img.shields.io/badge/ocgw-Concurrent%20AI%20agent%20session%20gateway-58a6ff?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" />
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/execute008/blitzkeys">
+<a href="https://github.com/oskarfreye/blitzkeys">
   <img src="https://img.shields.io/badge/blitzkeys-Realtime%20typing%20competition-58a6ff?style=for-the-badge&logo=elixir&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://github.com/execute008/goelectrodb">
+<a href="https://github.com/oskarfreye/goelectrodb">
   <img src="https://img.shields.io/badge/goelectrodb-DynamoDB%20single--table%20design%20in%20Go-58a6ff?style=for-the-badge&logo=go&logoColor=white&labelColor=0d1117" />
 </a>
 
@@ -104,7 +104,7 @@ let oskar = Engineer {
 
 <br/>
 
-<a href="https://gitcity.draht.dev/execute008">
+<a href="https://gitcity.draht.dev/oskarfreye">
   <img src="https://gitcity.draht.dev/api/svg?theme=noir&u=oskarfreye"
        alt="My GitHub Skyline" width="100%" height="333px" />
 </a>
@@ -112,18 +112,18 @@ let oskar = Engineer {
 <br/><br/>
 
 <a href="https://git.io/streak-stats">
-  <img width="60%" src="https://streak-stats.demolab.com/?user=execute008&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e" />
+  <img width="60%" src="https://streak-stats.demolab.com/?user=oskarfreye&theme=github-dark-blue&border=30363d&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=e6edf3&dates=8b949e" />
 </a>
 
 <br/><br/>
 
-![execute008's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=execute008&theme=github_dark)
+![oskarfreye's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oskarfreye&theme=github_dark)
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=execute008&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=execute008&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oskarfreye&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oskarfreye&theme=github_dark" />
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=execute008&theme=github_dark" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=execute008&theme=github_dark&utcOffset=1" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oskarfreye&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=oskarfreye&theme=github_dark&utcOffset=1" />
 
 </div>
 
@@ -151,7 +151,7 @@ let oskar = Engineer {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=execute008&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=oskarfreye&color=0d1117&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
