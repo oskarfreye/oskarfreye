@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/@freyedev-0d1117?style=for-the-badge&logo=instagram&logoColor=e6edf3)](https://instagram.com/freyedev)
 [![YouTube](https://img.shields.io/badge/@build__fr3n__fan-0d1117?style=for-the-badge&logo=youtube&logoColor=ff0000)](https://www.youtube.com/@build_fr3n_fan)
 [![TikTok](https://img.shields.io/badge/@freyedev-0d1117?style=for-the-badge&logo=tiktok&logoColor=e6edf3)](https://tiktok.com/@freyedev)
-[![GitHub](https://img.shields.io/badge/execute008-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/execute008)
+[![GitHub](https://img.shields.io/badge/oskarfreye-0d1117?style=for-the-badge&logo=github&logoColor=e6edf3)](https://github.com/oskarfreye)
 
 </div>
 
