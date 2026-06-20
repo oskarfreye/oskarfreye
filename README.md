@@ -30,8 +30,6 @@
 
 **[brain.nvim](https://github.com/oskarfreye/brain.nvim)** — Daily code challenges in Neovim to beat AI brain atrophy. Stay sharp. Stay human.
 
-**[ocgw](https://github.com/oskarfreye/ocgw)** — Lightweight gateway for managing concurrent AI coding agent sessions. Go-powered.
-
 <br/>
 
 ### ⚡ Tech DNA
