@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="320" viewBox="0 0 800 320" role="img" aria-labelledby="title description">
+<title id="title">Oskar Freye / neofetch</title>
+<desc id="description">Oskar Freye in Dortmund, Germany. Building draht and fr3n. Neovim on macOS and Arch. TypeScript, Go, Elixir, Rust, Lua, Python, and Dart.</desc>
+<rect width="800" height="320" rx="6" fill="oklch(0.977 0.006 165)"/>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+<text x="30" y="38" fill="oklch(0.46 0.015 165)" font-size="14" font-weight="400" xml:space="preserve">$ neofetch</text>
+<text x="27" y="99" fill="oklch(0.42 0.09 70)" font-size="22" font-weight="400" xml:space="preserve">   ____  ______</text>
+<text x="27" y="127" fill="oklch(0.42 0.09 70)" font-size="22" font-weight="400" xml:space="preserve">  / __ \/ ____/</text>
+<text x="27" y="155" fill="oklch(0.42 0.09 70)" font-size="22" font-weight="400" xml:space="preserve"> / / / / /_</text>
+<text x="27" y="183" fill="oklch(0.42 0.09 70)" font-size="22" font-weight="400" xml:space="preserve">/ /_/ / __/</text>
+<text x="27" y="211" fill="oklch(0.42 0.09 70)" font-size="22" font-weight="400" xml:space="preserve">\____/_/</text>
+<text x="252" y="42" fill="oklch(0.38 0.09 160)" font-size="24" font-weight="600" xml:space="preserve">oskar@freye</text>
+<text x="252" y="62" fill="oklch(0.46 0.015 165)" font-size="14" font-weight="400" xml:space="preserve">----------------------------</text>
+<text x="252" y="92" fill="oklch(0.38 0.09 160)" font-size="15" font-weight="600" xml:space="preserve">Name</text>
+<text x="370" y="92" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">Oskar Freye</text>
+<text x="252" y="119" fill="oklch(0.38 0.09 160)" font-size="15" font-weight="600" xml:space="preserve">Home</text>
+<text x="370" y="119" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">Dortmund, Germany</text>
+<text x="252" y="146" fill="oklch(0.38 0.09 160)" font-size="15" font-weight="600" xml:space="preserve">Building</text>
+<text x="370" y="146" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">draht / fr3n</text>
+<text x="252" y="173" fill="oklch(0.38 0.09 160)" font-size="15" font-weight="600" xml:space="preserve">OS</text>
+<text x="370" y="173" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">macOS + Arch</text>
+<text x="252" y="200" fill="oklch(0.38 0.09 160)" font-size="15" font-weight="600" xml:space="preserve">Editor</text>
+<text x="370" y="200" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">Neovim</text>
+<text x="252" y="227" fill="oklch(0.38 0.09 160)" font-size="15" font-weight="600" xml:space="preserve">Code</text>
+<text x="370" y="227" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">TypeScript, Go, Elixir</text>
+<text x="370" y="254" fill="oklch(0.28 0.014 165)" font-size="18" font-weight="400" xml:space="preserve">Rust, Lua, Python, Dart</text>
+</g>
+<g aria-hidden="true">
+<rect x="370" y="286" width="24" height="14" fill="oklch(0.34 0.015 165)"/>
+<rect x="394" y="286" width="24" height="14" fill="oklch(0.67 0.15 25)"/>
+<rect x="418" y="286" width="24" height="14" fill="oklch(0.76 0.12 160)"/>
+<rect x="442" y="286" width="24" height="14" fill="oklch(0.80 0.11 80)"/>
+<rect x="466" y="286" width="24" height="14" fill="oklch(0.70 0.12 250)"/>
+<rect x="490" y="286" width="24" height="14" fill="oklch(0.72 0.12 325)"/>
+<rect x="514" y="286" width="24" height="14" fill="oklch(0.80 0.09 205)"/>
+<rect x="538" y="286" width="24" height="14" fill="oklch(0.91 0.012 100)"/>
+</g>
+</svg>
