@@ -12,6 +12,14 @@ python3 scripts/render-header.py
 
 The script writes light and dark SVGs in desktop and mobile layouts. The main README selects a variant with `<picture>`. Keep the header's alt text in sync with its fields.
 
+## Social buttons
+
+The same `python3 scripts/render-header.py` command writes light and dark variants of the Website, X, YouTube, and Instagram buttons. Colors and typography match the Neofetch header. Each image is 136 × 56 pixels, including transparent spacing, so the four links wrap into two rows on small screens.
+
+The buttons are ordinary image links, so keyboard navigation and focus styling remain GitHub-native. GitHub does not allow custom link CSS in a README; the SVGs intentionally contain no hover scripts or animation.
+
+Brand icons in `assets/icons/` come from [Simple Icons](https://github.com/simple-icons/simple-icons), distributed under [CC0 1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). Their paths are embedded into the generated buttons, with no remote icon requests. Brand names and marks remain the property of their respective owners.
+
 ## Project previews
 
 `projects.webp` contains public website screenshots captured on 2026-09-22. From left to right:

@@ -5,7 +5,12 @@
   <img src="./assets/neofetch-light.svg" width="800" alt="Oskar Freye in Dortmund, Germany. Building draht and fr3n. Neovim on macOS and Arch. TypeScript, Go, Elixir, Rust, Lua, Python, and Dart.">
 </picture>
 
-[freye.tech](https://freye.tech) · [Portfolio](https://freye.tech/portfolio) · [X](https://twitter.com/freyedev) · [YouTube](https://www.youtube.com/@freyedev)
+<p>
+  <a href="https://freye.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-website-dark.svg"><img src="./assets/button-website-light.svg" width="136" height="56" alt="Website: freye.tech"></picture></a>
+  <a href="https://twitter.com/freyedev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-x-dark.svg"><img src="./assets/button-x-light.svg" width="136" height="56" alt="X: @freyedev"></picture></a>
+  <a href="https://www.youtube.com/@freyedev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-youtube-dark.svg"><img src="./assets/button-youtube-light.svg" width="136" height="56" alt="YouTube: @freyedev"></picture></a>
+  <a href="https://instagram.com/freyedev"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-instagram-dark.svg"><img src="./assets/button-instagram-light.svg" width="136" height="56" alt="Instagram: @freyedev"></picture></a>
+</p>
 
 ## Products & websites
 
@@ -39,4 +44,4 @@
 
 ---
 
-Also on [Instagram](https://instagram.com/freyedev) and [TikTok](https://tiktok.com/@freyedev).
+[Full portfolio](https://freye.tech/portfolio) · [TikTok](https://tiktok.com/@freyedev)

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="56" viewBox="0 0 136 56" role="img" aria-labelledby="title description">
+<title id="title">YouTube: @freyedev</title>
+<desc id="description">An external link for Oskar Freye.</desc>
+<rect x="4.5" y="4.5" width="127" height="47" rx="6" fill="oklch(0.977 0.006 165)" stroke="oklch(0.63 0.014 165)"/>
+<g transform="translate(24.60 18) scale(0.833333)" color="oklch(0.28 0.014 165)" fill="oklch(0.28 0.014 165)" aria-hidden="true">
+<path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z"/>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+<text x="52.60" y="33" fill="oklch(0.28 0.014 165)" font-size="14" font-weight="600" xml:space="preserve">YouTube</text>
+</g>
+</svg>

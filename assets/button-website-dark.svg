@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="56" viewBox="0 0 136 56" role="img" aria-labelledby="title description">
+<title id="title">Website: freye.tech</title>
+<desc id="description">An external link for Oskar Freye.</desc>
+<rect x="4.5" y="4.5" width="127" height="47" rx="6" fill="oklch(0.80 0.12 160)" stroke="oklch(0.80 0.12 160)"/>
+<g transform="translate(24.60 18) scale(0.833333)" color="oklch(0.18 0.008 165)" fill="oklch(0.18 0.008 165)" aria-hidden="true">
+<g fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><ellipse cx="12" cy="12" rx="4" ry="9"/><path d="M3 12h18"/></g>
+</g>
+<g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace">
+<text x="52.60" y="33" fill="oklch(0.18 0.008 165)" font-size="14" font-weight="600" xml:space="preserve">Website</text>
+</g>
+</svg>

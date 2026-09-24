@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Render the static profile headers: python3 scripts/render-header.py."""
+"""Render the profile header and buttons: python3 scripts/render-header.py."""
 
 from pathlib import Path
-from xml.sax.saxutils import escape
+from xml.etree import ElementTree
+from xml.sax.saxutils import escape, quoteattr
 
 ROOT = Path(__file__).resolve().parent.parent
 FONT = "ui-monospace, SFMono-Regular, Menlo, Consolas, Liberation Mono, monospace"
@@ -111,6 +112,72 @@ def render(theme, mobile):
     return '\n'.join(parts)
 
 
+BUTTONS = (
+    ('website', 'Website', 'Website: freye.tech'),
+    ('x', '@freyedev', 'X: @freyedev'),
+    ('youtube', 'YouTube', 'YouTube: @freyedev'),
+    ('instagram', 'Instagram', 'Instagram: @freyedev'),
+)
+BUTTON_THEMES = {
+    'dark': {
+        'background': 'oklch(0.22 0.010 165)',
+        'border': 'oklch(0.54 0.014 165)',
+    },
+    'light': {
+        'background': 'oklch(0.977 0.006 165)',
+        'border': 'oklch(0.63 0.014 165)',
+    },
+}
+
+
+def button_icon(slug):
+    if slug == 'website':
+        return (
+            '<g fill="none" stroke="currentColor" stroke-width="1.8">'
+            '<circle cx="12" cy="12" r="9"/>'
+            '<ellipse cx="12" cy="12" rx="4" ry="9"/>'
+            '<path d="M3 12h18"/></g>'
+        )
+    # Brand paths are vendored from Simple Icons (CC0); see assets/README.md.
+    svg = ElementTree.parse(ROOT / 'assets' / 'icons' / f'{slug}.svg').getroot()
+    if svg.get('viewBox') != '0 0 24 24':
+        raise ValueError(f'Unexpected icon viewBox: {slug}')
+    paths = svg.findall('{http://www.w3.org/2000/svg}path')
+    if not paths:
+        raise ValueError(f'No paths in icon: {slug}')
+    return ''.join(f'<path d={quoteattr(path.attrib["d"])}/>' for path in paths)
+
+
+def render_button(theme, slug, label, title):
+    colors = THEMES[theme]
+    primary = slug == 'website'
+    background = colors['accent'] if primary else BUTTON_THEMES[theme]['background']
+    foreground = colors['background'] if primary else colors['text']
+    border = background if primary else BUTTON_THEMES[theme]['border']
+    # A 48px surface inside a 56px link target; transparent padding separates rows.
+    width, height, icon_size, gap, font_size = 136, 56, 20, 8, 14
+    label_width = len(label) * font_size * 0.6
+    icon_x = (width - icon_size - gap - label_width) / 2
+    text_x = icon_x + icon_size + gap
+    return '\n'.join([
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
+        f'viewBox="0 0 {width} {height}" role="img" aria-labelledby="title description">',
+        f'<title id="title">{escape(title)}</title>',
+        '<desc id="description">An external link for Oskar Freye.</desc>',
+        f'<rect x="4.5" y="4.5" width="127" height="47" rx="6" '
+        f'fill="{background}" stroke="{border}"/>',
+        f'<g transform="translate({icon_x:.2f} 18) scale({icon_size / 24:.6f})" '
+        f'color="{foreground}" fill="{foreground}" aria-hidden="true">',
+        button_icon(slug),
+        '</g>',
+        f'<g font-family="{FONT}">',
+        text(f'{text_x:.2f}', 33, label, foreground, font_size, 600),
+        '</g>',
+        '</svg>',
+        '',
+    ])
+
+
 def main():
     assets = ROOT / 'assets'
     assets.mkdir(exist_ok=True)
@@ -119,6 +186,10 @@ def main():
             suffix = '-mobile' if mobile else ''
             target = assets / f'neofetch-{theme}{suffix}.svg'
             target.write_text(render(theme, mobile), encoding='utf-8')
+            print(target.relative_to(ROOT))
+        for slug, label, title in BUTTONS:
+            target = assets / f'button-{slug}-{theme}.svg'
+            target.write_text(render_button(theme, slug, label, title), encoding='utf-8')
             print(target.relative_to(ROOT))
 
 
