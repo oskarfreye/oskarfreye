@@ -2,7 +2,7 @@
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/neofetch-dark-mobile.svg">
   <source media="(max-width: 600px)" srcset="./assets/neofetch-light-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg">
-  <img src="./assets/neofetch-light.svg" width="800" alt="Oskar Freye in Dortmund, Germany. Building draht and fr3n. Neovim on macOS and Arch. TypeScript, Go, Elixir, Rust, Lua, Python, and Dart.">
+  <img src="./assets/neofetch-light.svg" width="800" alt="Oskar Freye in Dortmund, Germany. Building draht and fr3n. Neovim on macOS, Arch and nixOS. TypeScript, Go, Elixir, Rust, Lua, Python, and Dart.">
 </picture>
 
 <p>
