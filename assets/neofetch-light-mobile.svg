@@ -16,7 +16,7 @@
 <text x="20" y="179" fill="oklch(0.38 0.09 160)" font-size="13" font-weight="600" xml:space="preserve">Building</text>
 <text x="112" y="179" fill="oklch(0.28 0.014 165)" font-size="15.5" font-weight="400" xml:space="preserve">draht / fr3n</text>
 <text x="20" y="205" fill="oklch(0.38 0.09 160)" font-size="13" font-weight="600" xml:space="preserve">OS</text>
-<text x="112" y="205" fill="oklch(0.28 0.014 165)" font-size="15.5" font-weight="400" xml:space="preserve">macOS + Arch</text>
+<text x="112" y="205" fill="oklch(0.28 0.014 165)" font-size="15.5" font-weight="400" xml:space="preserve">macOS + Arch + nix</text>
 <text x="20" y="231" fill="oklch(0.38 0.09 160)" font-size="13" font-weight="600" xml:space="preserve">Editor</text>
 <text x="112" y="231" fill="oklch(0.28 0.014 165)" font-size="15.5" font-weight="400" xml:space="preserve">Neovim</text>
 <text x="20" y="257" fill="oklch(0.38 0.09 160)" font-size="13" font-weight="600" xml:space="preserve">Code</text>
